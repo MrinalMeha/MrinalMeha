@@ -7,7 +7,7 @@
 
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20there!%20I'm%20Mrinal%20Meha&fontSize=48&fontColor=fff&fontAlign=50&fontAlignY=40&animation=twinkling&desc=Full%20Stack%20Developer%20|%20LeetCode%20Enthusiast%20|%20Innovation%20Seeker&descAlign=50&descAlignY=55&descFontSize=22&descColor=fff" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20there!%20I'm%20Mrinal%20Meha&fontSize=48&fontColor=fff&fontAlign=50&fontAlignY=40&animation=twinkling&desc=Python%20Developer%20|%20AI-ML%20Enthusiast%20|%20Innovation%20Seeker&descAlign=50&descAlignY=55&descFontSize=22&descColor=fff" alt="Header Banner" />
 </div>
 
 <!-- GitHub Profile Trophy -->
@@ -25,10 +25,10 @@
 ## 🙋‍♂️ About Me
 
 ```text
-👨‍💻 Software Developer | B.Tech CSE @ K.R. Mangalam University
+👨‍💻 AI ML Engineer | B.Tech CSE @ K.R. Mangalam University
 📍 Gurugram, India
-🎯 Passionate about Full Stack Development & Problem Solving
-📚 Lifelong Learner | Open Source Enthusiast
+🎯 Passionate about AI & ML
+📚 Lifelong Learner | Linux Systems Enthusiast
 ```
 
 I'm a passionate **Software Developer** specializing in building scalable web applications and solving complex algorithmic problems. With hands-on experience in both front-end and back-end technologies, I thrive on turning creative ideas into functional, production-ready solutions.
@@ -41,33 +41,33 @@ My journey combines **technical excellence** with **continuous learning** - from
 
 ### Frontend Development
 <div align="center">
-  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <!-- <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <!-- <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" /> -->
 </div>
 
 ### Backend Development
 <div align="center">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  <!-- <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /> -->
+  <!-- <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express" /> -->
+  <!-- <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" /> -->
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <!-- <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" /> -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </div>
 
 ### Databases
 <div align="center">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <!-- <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /> -->
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <!-- <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" /> -->
 </div>
 
-### DevOps & Tools
+### AI/ML & Tools
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -110,10 +110,10 @@ My journey combines **technical excellence** with **continuous learning** - from
 ### 🔗 Featured Repositories
 
 <div align="center">
-  <a href="https://github.com/itsashish1">
+  <a href="https://github.com/MrinalMeha">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsashish1&repo=itsashish1&theme=algolia&hide_border=true" alt="Profile Repo" />
   </a>
-  <a href="https://github.com/itsashish1">
+  <a href="https://github.com/MrinalMeha">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsashish1&repo=itsashish1&theme=algolia&hide_border=true" alt="Pinned Repo" />
   </a>
 </div>
@@ -122,9 +122,9 @@ My journey combines **technical excellence** with **continuous learning** - from
 ## 🏆 LeetCode Profile
 
 <div align="center">
-  <a href="https://leetcode.com/u/itsashish1/"><img src="https://leetcard.jacoblin.cool/itsashish1?theme=dark&font=Inter&ext=stats" alt="LeetCode Stats" /></a>
+  <a href="https://leetcode.com/u/mrinalmeha13/"><img src="https://leetcard.jacoblin.cool/itsashish1?theme=dark&font=Inter&ext=stats" alt="LeetCode Stats" /></a>
   <br/><br/>
-  <a href="https://leetcode.com/u/itsashish1/"><img src="https://leetcard.jacoblin.cool/itsashish1?theme=dark&font=Inter&ext=heatmap" alt="LeetCode Heatmap" /></a>
+  <a href="https://leetcode.com/u/mrinalmeha13/"><img src="https://leetcard.jacoblin.cool/itsashish1?theme=dark&font=Inter&ext=heatmap" alt="LeetCode Heatmap" /></a>
 </div>
 
 ### 📈 Problem Solving Journey
@@ -135,11 +135,11 @@ My journey combines **technical excellence** with **continuous learning** - from
 | **Easy** | 21+ Solved |
 | **Medium** | 43+ Solved |
 | **Hard** | 11+ Solved |
-| **Languages** | C++, Java, Python |
+| **Languages** | Java, Python |
 | **Active Days** | 45+ days past year |
 | **Focus Areas** | DSA, System Design, OOP |
 
-[🔗 Visit my LeetCode Profile](https://leetcode.com/u/itsashish1/)
+[🔗 Visit my LeetCode Profile](https://leetcode.com/u/mrinalmeha13/)
 
 ---
 
@@ -148,28 +148,30 @@ My journey combines **technical excellence** with **continuous learning** - from
 ### 📚 Education
 - **B.Tech in Computer Science & Engineering**
   - K.R. Mangalam University, Gurugram, India
-  - Specialization: Full Stack Development & DSA
+  - Specialization: Artificial Intelligence & Machine Learning
 
 ### 🏢 Industrial Training
-- **Industrial Automation Internship**
-  - Developed C-based simulation utilities for industrial sensor data logging
-  - Gained hands-on experience with communication protocols & system design
-  - Received certification for successful program completion
+- **NHPC Ltd. Internship**
+  - Redesigned and modernized a  webpage to improve user experience and visual appeal using
+HTML, CSS, and JavaScript.
+  - Gained hands-on Cyber Securoty exposure with foundational knowledge in networking protocols,
+system security, and threat detection.
+  - Received certification for successful program completion.
 
 ### 🎯 Certifications
-- Full Stack Web Development
-- Data Structures & Algorithms
-- Industrial Automation & Control Systems
+- Microsoft AI Fundamentals - AI 900
+- Infosys SQL Certification
+- Deloitte Virtual internship in Software Development
 
 ---
 ## 🎯 Currently Focused On
 
 ```
-📖 Deepening knowledge in System Design & Architecture
-🔧 Building production-grade full-stack applications
+📖 Deepening knowledge in Neural Networks and Agentic AI
+🔧 Building AI Projects 
 🧠 Solving daily DSA challenges on LeetCode
-🚀 Contributing to open-source projects
-📚 Learning about cloud deployment & DevOps
+🚀 Exploring fields in AI-ML and Computer Vision
+📚 Learning about System Design
 ```
 
 ---
@@ -185,12 +187,12 @@ My journey combines **technical excellence** with **continuous learning** - from
         </a>
       </td>
       <td align="center">
-        <a href="https://leetcode.com/u/itsashish1/" target="_blank">
+        <a href="https://leetcode.com/u/mrinalmeha13/" target="_blank">
           <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/itsashish1" target="_blank">
+        <a href="https://github.com/MrinalMeha" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
         </a>
       </td>
@@ -203,8 +205,8 @@ My journey combines **technical excellence** with **continuous learning** - from
 | Platform | Link | Status |
 |----------|------|--------|
 | **LinkedIn** | [linkedin.com/in/gtc-ashish](https://www.linkedin.com/in/gtc-ashish/) | ✅ Active |
-| **LeetCode** | [leetcode.com/u/itsashish1](https://leetcode.com/u/itsashish1/) | ✅ Active |
-| **GitHub** | [github.com/itsashish1](https://github.com/itsashish1) | ✅ Active |
+| **LeetCode** | [leetcode.com/u/itsashish1](https://leetcode.com/u/mrinalmeha13/) | ✅ Active |
+| **GitHub** | [github.com/itsashish1](https://github.com/MrinalMeha) | ✅ Active |
 
 ---
 
