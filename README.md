@@ -31,7 +31,7 @@
 📚 Lifelong Learner | Linux Systems Enthusiast
 ```
 
-I'm a passionate **Software Developer** specializing in building scalable web applications and solving complex algorithmic problems. With hands-on experience in both front-end and back-end technologies, I thrive on turning creative ideas into functional, production-ready solutions.
+I'm a passionate **AI ML Engineer** specializing in building scalable web applications and solving complex algorithmic problems. With hands-on experience in both front-end and back-end technologies, I thrive on turning creative ideas into functional, production-ready solutions.
 
 My journey combines **technical excellence** with **continuous learning** - from crafting elegant code to exploring cutting-edge technologies. I believe in writing clean, maintainable code and contributing to the developer community.
 
@@ -71,7 +71,7 @@ My journey combines **technical excellence** with **continuous learning** - from
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/tensorflow.svg" alt="Tensorflow" />
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
