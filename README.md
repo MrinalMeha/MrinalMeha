@@ -7,17 +7,17 @@
 
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20there!%20I'm%20Mrinal%20Meha&fontSize=48&fontColor=fff&fontAlign=50&fontAlignY=40&animation=twinkling&desc=Python%20Developer%20|%20AI-ML%20Enthusiast%20|%20Innovation%20Seeker&descAlign=50&descAlignY=55&descFontSize=22&descColor=fff" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20there!%20I'm%20Mrinal%20Meha&fontSize=48&fontColor=fff&fontAlign=50&fontAlignY=40&animation=twinkling&desc=Python%20Developer%20|%20AI-ML%20Enthusiast%20|%20AI%20Engineer%20In-Progress&descAlign=50&descAlignY=55&descFontSize=22&descColor=fff" alt="Header Banner" />
 </div>
 
 <!-- GitHub Profile Trophy -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=itsashish1&theme=algolia&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&row=1" alt="GitHub Trophies" />
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=itsashish1&theme=algolia&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&row=1" alt="GitHub Trophies" /> -->
 </p>
 
 <!-- Animated Typing Introduction -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&color=58a6ff&center=true&vCenter=true&width=600&height=50&lines=Building+Scalable+Applications+%E2%9A%A1;Solving+DSA+Problems+Daily+%F0%9F%92%BB;Full+Stack+Development+%F0%9F%9A%80;Always+Learning+%F0%9F%93%9A" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&color=58a6ff&center=true&vCenter=true&width=600&height=50&lines=PartTime+Front-End+Dev+%E2%9A%A1;Solving+DSA+Problems+Daily+%F0%9F%92%BB;AI+ML+Engineer+%F0%9F%9A%80;Always+Learning+%F0%9F%93%9A" alt="Typing Animation" />
 </div>
 
 ---
@@ -31,9 +31,10 @@
 📚 Lifelong Learner | Linux Systems Enthusiast
 ```
 
-I'm a passionate **AI ML Engineer** specializing in building scalable web applications and solving complex algorithmic problems. With hands-on experience in both front-end and back-end technologies, I thrive on turning creative ideas into functional, production-ready solutions.
+I'm a passionate **AI/ML enthusiast** who loves exploring how intelligent systems can solve real-world problems. I enjoy building machine learning projects, experimenting with deep learning models, and learning about the latest advancements in AI—from Large Language Models (LLMs) to Computer Vision.
 
-My journey combines **technical excellence** with **continuous learning** - from crafting elegant code to exploring cutting-edge technologies. I believe in writing clean, maintainable code and contributing to the developer community.
+My journey is all about **learning, building, and improving**. I'm constantly exploring new tools and technologies, working on hands-on projects, and sharpening my problem-solving skills. I believe in writing clean, readable code, sharing what I learn, and growing as an AI engineer one project at a time.
+
 
 ---
 
@@ -61,14 +62,6 @@ My journey combines **technical excellence** with **continuous learning** - from
 
 ---
 
-## 💼 Projects
-
-| # | Project | Tech Stack | Status | Demo |
-|---|---------|-----------|--------|------|
-| 1 | **Full Stack Web Application** | React.js, Node.js, Express, MongoDB | ✅ Live | [🔗 View](https://github.com/itsashish1) |
-| 2 | **REST API Development** | NestJS, TypeScript, PostgreSQL | ✅ Live | [🔗 View](https://github.com/itsashish1) |
-| 3 | **E-commerce Platform** | React, Redux, Spring Boot, MySQL | 🚧 Building | [🔗 View](https://github.com/itsashish1) |
-| 4 | **DSA Problem Solving** | Java, Python, C++ | ✅ Active | [🔗 LeetCode](https://leetcode.com/u/itsashish1/) |
 
 ### 🔗 Featured Repositories
 
@@ -89,18 +82,6 @@ My journey combines **technical excellence** with **continuous learning** - from
   <br/><br/>
   <a href="https://leetcode.com/u/mrinalmeha13/"><img src="https://leetcard.jacoblin.cool/mrinalmeha13?theme=chartreuse&font=Timmana&ext=heatmap" alt="LeetCode Heatmap" /></a>
 </div>
-
-### 📈 Problem Solving Journey
-
-| Metric | Value |
-|--------|-------|
-| **Total Solved** | 75+ Problems |
-| **Easy** | 21+ Solved |
-| **Medium** | 43+ Solved |
-| **Hard** | 11+ Solved |
-| **Languages** | Java, Python |
-| **Active Days** | 45+ days past year |
-| **Focus Areas** | DSA, AI-ML, OOP |
 
 [🔗 Visit my LeetCode Profile](https://leetcode.com/u/mrinalmeha13/)
 
@@ -167,9 +148,9 @@ system security, and threat detection.
 
 | Platform | Link | Status |
 |----------|------|--------|
-| **LinkedIn** | [linkedin.com/in/gtc-ashish](https://www.linkedin.com/in/mrinal-meha-ab4357305/) | ✅ Active |
-| **LeetCode** | [leetcode.com/u/itsashish1](https://leetcode.com/u/mrinalmeha13/) | ✅ Active |
-| **GitHub** | [github.com/itsashish1](https://github.com/MrinalMeha) | ✅ Active |
+| **LinkedIn** | [linkedin.com/in/Mrinal](https://www.linkedin.com/in/mrinal-meha-ab4357305/) | ✅ Active |
+| **LeetCode** | [leetcode.com/u/Mrinal](https://leetcode.com/u/mrinalmeha13/) | ✅ Active |
+| **GitHub** | [github.com/MrinalMeha](https://github.com/MrinalMeha) | ✅ Active |
 
 ---
 
@@ -183,6 +164,6 @@ system security, and threat detection.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontSize=22&text=Made%20with%20%E2%9D%A4%EF%B8%8F%20and%20%E2%98%95&fontColor=fff&fontAlign=50&fontAlignY=55" alt="Footer" />
 
-![Visitor Count](https://komarev.com/ghpvc/?username=itsashish1&color=58a6ff&style=flat-square)
+![Visitor Count]((https://komarev.com/ghpvc/?username=MrinalMeha&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
