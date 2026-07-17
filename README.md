@@ -59,23 +59,29 @@ My journey combines **technical excellence** with **continuous learning** - from
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </div>
 
-### Databases
+### Databases & Tools
 <div align="center">
   <!-- <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /> -->
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <!-- <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" /> -->
-</div>
-
-### AI/ML & Tools
-<div align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <!-- <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> -->
+   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <!-- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/tensorflow.svg" alt="Tensorflow" /> -->
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <!-- <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" /> -->
 </div>
+
+### AI/ML & Tools
+<!-- <div align="center"> -->
+  <!-- <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/tensorflow.svg" alt="Tensorflow" /> -->
+  <!-- <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</div> --> -->
 
 ---
 ## 📊 GitHub Statistics
@@ -109,22 +115,22 @@ My journey combines **technical excellence** with **continuous learning** - from
 
 ### 🔗 Featured Repositories
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/MrinalMeha">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsashish1&repo=itsashish1&theme=algolia&hide_border=true" alt="Profile Repo" />
-  </a>
-  <a href="https://github.com/MrinalMeha">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrinalmeha&repo=itsashish1&theme=algolia&hide_border=true" alt="Profile Repo" />
+  </a> -->
+  <!-- <a href="https://github.com/MrinalMeha">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsashish1&repo=itsashish1&theme=algolia&hide_border=true" alt="Pinned Repo" />
-  </a>
-</div>
+  </a> -->
+<!-- </div> -->
 
 ---
 ## 🏆 LeetCode Profile
 
 <div align="center">
-  <a href="https://leetcode.com/u/mrinalmeha13/"><img src="https://leetcard.jacoblin.cool/itsashish1?theme=dark&font=Inter&ext=stats" alt="LeetCode Stats" /></a>
+  <a href="https://leetcode.com/u/mrinalmeha13/"><img src="https://leetcard.jacoblin.cool/mrinalmeha13?theme=chartreuse&font=Timmana" alt="LeetCode Stats" /></a>
   <br/><br/>
-  <a href="https://leetcode.com/u/mrinalmeha13/"><img src="https://leetcard.jacoblin.cool/itsashish1?theme=dark&font=Inter&ext=heatmap" alt="LeetCode Heatmap" /></a>
+  <a href="https://leetcode.com/u/mrinalmeha13/"><img src="https://leetcard.jacoblin.cool/mrinalmeha13?theme=chartreuse&font=Timmana&ext=heatmap" alt="LeetCode Heatmap" /></a>
 </div>
 
 ### 📈 Problem Solving Journey
@@ -137,7 +143,7 @@ My journey combines **technical excellence** with **continuous learning** - from
 | **Hard** | 11+ Solved |
 | **Languages** | Java, Python |
 | **Active Days** | 45+ days past year |
-| **Focus Areas** | DSA, System Design, OOP |
+| **Focus Areas** | DSA, AI-ML, OOP |
 
 [🔗 Visit my LeetCode Profile](https://leetcode.com/u/mrinalmeha13/)
 
@@ -182,7 +188,7 @@ system security, and threat detection.
   <table>
     <tr>
       <td align="center">
-        <a href="https://www.linkedin.com/in/gtc-ashish/" target="_blank">
+        <a href="https://www.linkedin.com/in/mrinal-meha-ab4357305/" target="_blank">
           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
         </a>
       </td>
@@ -204,7 +210,7 @@ system security, and threat detection.
 
 | Platform | Link | Status |
 |----------|------|--------|
-| **LinkedIn** | [linkedin.com/in/gtc-ashish](https://www.linkedin.com/in/gtc-ashish/) | ✅ Active |
+| **LinkedIn** | [linkedin.com/in/gtc-ashish](https://www.linkedin.com/in/mrinal-meha-ab4357305/) | ✅ Active |
 | **LeetCode** | [leetcode.com/u/itsashish1](https://leetcode.com/u/mrinalmeha13/) | ✅ Active |
 | **GitHub** | [github.com/itsashish1](https://github.com/MrinalMeha) | ✅ Active |
 
