@@ -86,8 +86,8 @@ My journey combines **technical excellence** with **continuous learning** - from
 ---
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <table>
+<!-- <div align="center"> -->
+  <!-- <table>
     <tr>
       <td><img src="https://github-readme-stats.vercel.app/api?username=itsashish1&show_icons=true&theme=algolia&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180" /></td>
       <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=itsashish1&theme=algolia&hide_border=true&border_radius=8" alt="Streak Stats" height="180" /></td>
@@ -98,9 +98,9 @@ My journey combines **technical excellence** with **continuous learning** - from
   </table>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsashish1&theme=algolia" alt="Profile Summary" />
-</div>
+</div> --> -->
 
 ---
 
