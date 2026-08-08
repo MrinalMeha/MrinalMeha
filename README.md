@@ -98,7 +98,7 @@ My journey is all about **learning, building, and improving**. I'm constantly ex
 - **NHPC Ltd. Internship**
   - Redesigned and modernized a  webpage to improve user experience and visual appeal using
 HTML, CSS, and JavaScript.
-  - Gained hands-on Cyber Securoty exposure with foundational knowledge in networking protocols,
+  - Gained hands-on Cyber Security exposure with foundational knowledge in networking protocols,
 system security, and threat detection.
   - Received certification for successful program completion.
 
